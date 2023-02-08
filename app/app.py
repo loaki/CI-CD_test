@@ -1,9 +1,8 @@
 """imported module"""
-import datetime as datetime
+from datetime import datetime
 import time 
 
 
 while 1:
     print(datetime.now())
     time.sleep(10)
-    print('ok')
