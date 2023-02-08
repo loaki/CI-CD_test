@@ -1,6 +1,6 @@
 """imported module"""
 from datetime import datetime
-import time 
+import time
 
 
 while 1:
