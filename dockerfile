@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu
 
 RUN mkdir /app
 WORKDIR /app
