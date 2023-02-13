@@ -5,4 +5,4 @@ import time
 
 while 1:
     print(datetime.now())
-    time.sleep(10)
+    time.sleep(60)
